@@ -1,7 +1,7 @@
 # utility-text (web)
 > this is the web version of the main package, please go to the [main package](https://www.npmjs.com/package/utility-text) for using it with npm.
 
-<br><br>
+<br>
 
 With the help of jsdelivr, you can directly link the package files to your html to use these functions without npm.<br>Read the [documentation](https://utility-text.vercel.app/installation) for more detailed information to use the package with or without npm.
 
