@@ -1,0 +1,24 @@
+{
+  "name": "utility-text-web",
+  "version": "1.0.1",
+  "description": "the web version for using utility-text functions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chill31/utility-text-web.git"
+  },
+  "keywords": [
+    "utility-text",
+    "utility",
+    "text",
+    "web"
+  ],
+  "author": "chill31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chill31/utility-text-web/issues"
+  },
+  "homepage": "https://github.com/chill31/utility-text-web#readme"
+}
