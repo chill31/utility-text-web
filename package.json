@@ -1,6 +1,6 @@
 {
   "name": "utility-text-web",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "the web version for using utility-text functions",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
