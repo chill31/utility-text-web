@@ -715,7 +715,7 @@ function toMorseCode(string) {
   return morse.join(" ");
 }
 
-function fromMorseCodeToString(morseCode) {
+function fromMorseToString(morseCode) {
   const reverseMorseLookup = {
     '.-': 'a',
     '-...': 'b',
@@ -856,7 +856,7 @@ module.exports = {
   PasswordUtil,
   minDistance,
   toMorseCode,
-  fromMorseCodeToString,
+  fromMorseToString,
   toBinary,
   fromBinaryToString
 };
